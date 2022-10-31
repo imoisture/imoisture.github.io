@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      KVO详解2
-subtitle:   KVO底层原理及其实现
-date:       2021-03-29
+title:      MacOS上的Markdown编辑器
+subtitle:   Macdown
+date:       2022-10-29
 author:     BY
-header-img: img/post-bg-cook.jpg
+header-img: img/post-monitor.jpg
 catalog: true
 tags:
     - iOS
