@@ -18,8 +18,8 @@ sidebar-avatar: /img/post-buildings.png      # use absolute URL, seeing it's use
 
 # SNS settings
 RSS: false
-weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
+weibo_username:     蔚来
+zhihu_username:     fly51fly
 github_username:    imoisture
 facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
@@ -91,7 +91,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+chrome-tab-theme-color: "#D1C4E9"
 service-worker: true
 
 
@@ -99,14 +99,14 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "百度·昆仑芯",
+        href: "https://www.kunlunxin.com.cn/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Github·imoisture",
+        href: "https://github.com/imoisture"
     },{
         title: "Apple",
-        href: "https://apple.com"
+        href: "https://apple.com.cn"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
