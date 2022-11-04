@@ -20,6 +20,7 @@ tags:
 ## 二、编译runtime/libtorch
 > 建议先看完2.1节 再执行这一步的编译。
 根据 wenet/runtime/libtorch/README_CN.md 可知，需要先 cd ${YourWenetPath}/runtime/libtorch,  然后执行：
+
 `mkdir build && cd build && cmake -DGPU=OFF .. && cmake --build .`
 
 这一步坑比较多，可能遇到如下问题：
