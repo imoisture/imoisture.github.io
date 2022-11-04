@@ -133,7 +133,7 @@ model_dir=$PWD/20210601_u2++_conformer_libtorch/
 **4.3 执行结果**
 
 <audio id="audio" controls="" preload="none">
-      <source id="wav" src="https://raw.githubusercontent.com/imoisture/imoisture.github.io/master/img/IC0936W0083.wav">
+      <source id="wav" src="https://raw.githubusercontent.com/imoisture/imoisture.github.io/master/img/IC0936W0002.wav">
 </audio>
 
 ![](https://raw.githubusercontent.com/imoisture/imoisture.github.io/master/img/wenet-run-success.png)
