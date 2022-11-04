@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      WeNet runtime/libtorch 执行步骤
+subtitle:   语音识别框架
+date:       2022-11-04
+author:     BY
+header-img: img/wenet-leica.png
+catalog: true
+tags:
+    - ASR
+    - wenet
+    - Notes
+---
+
 # WeNet runtime/libtorch 执行步骤
 
 ## 一、拉取WeNet仓库
